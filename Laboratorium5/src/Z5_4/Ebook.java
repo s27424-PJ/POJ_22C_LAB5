@@ -1,3 +1,5 @@
+package Z5_4;
+
 class Ebook extends Ksiazka {
     private int rozmiar;
     private String format;

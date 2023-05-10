@@ -1,3 +1,5 @@
+package Z5_4;
+
 class KsiazkaPapierowa extends Ksiazka {
     private int rokWydania;
 

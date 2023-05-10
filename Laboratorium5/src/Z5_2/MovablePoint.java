@@ -1,3 +1,4 @@
+package Z5_2;
 public class MovablePoint implements Movable {
     int x;
     int y;

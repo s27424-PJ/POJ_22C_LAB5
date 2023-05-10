@@ -1,3 +1,4 @@
+package Z5_2;
 public class TestMovable {
     public static void main(String[] args) {
         MovablePoint point = new MovablePoint(0, 0);

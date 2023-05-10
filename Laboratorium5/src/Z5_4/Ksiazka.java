@@ -1,3 +1,5 @@
+package Z5_4;
+
 class Ksiazka {
     private String tytul;
     private String autor;

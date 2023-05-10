@@ -1,6 +1,5 @@
+package Z5_1;
 import java.util.ArrayList;
-
-
 public class ParzysteArrayList {
     public static void main(String[] args) {
         long startTime = System.nanoTime();
